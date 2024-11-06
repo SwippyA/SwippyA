@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubhankar Swain</h1>
-<h3 align="center">A passionate Full Stack developer and Data Science from India</h3>
+<h3 align="center">A passionate Full Stack developer and data scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swippya&label=Profile%20views&color=0e75b6&style=flat" alt="swippya" /> </p>
 
